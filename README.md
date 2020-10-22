@@ -9,4 +9,11 @@ List of cool DevOps tools which can help anyone!
 <br/>
 
 ## Kubernetes
-### Deployment Helper
+### Deployment helper
+* [Helm / Helmsman](./Kubernetes/helm.md)
+* [Kustomize](./Kubernetes/kustomize.md)
+
+### Diverses Tools
+|Name | Description |
+|---|---|
+|[Stakater/Reloader](./Kubernetes/stakater_reloader.md)| Helps to reload deployments... when a secret or a config map is update |
